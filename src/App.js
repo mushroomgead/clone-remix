@@ -1,8 +1,22 @@
-import logo from './logo.svg';
-import './App.css';
+import Header from './Header';
+import HeroSection from './HeroSection';
+import TestimonialSection from './TestimonialSection';
+import AboutProduct from './AboutProduct';
+import NestedRoutesExample from './NestedRoutesExample';
 
 function App() {
-  return <h1 className='text-3xl font-bold underline'>Hello world!</h1>;
+  return (
+    <div className='bg-black h-screen'>
+      <Header />
+      <main>
+        <HeroSection></HeroSection>
+        <TestimonialSection></TestimonialSection>
+        <AboutProduct></AboutProduct>
+        <NestedRoutesExample></NestedRoutesExample>
+        <div style={{ height: 1500, background: 'pink' }}></div>
+      </main>
+    </div>
+  );
 }
 
 export default App;

@@ -23,6 +23,7 @@ export default function AboutProduct() {
           appetite. <span className='font-bold'>Remix is ready</span> to serve
           you from the initial request to the fanciest UX your designers can
           think up. Check it out 👀
+          x
         </div>
       </div>
     </div>

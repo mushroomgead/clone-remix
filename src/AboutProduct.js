@@ -2,7 +2,7 @@ export default function AboutProduct() {
   return (
     <div className="flex w-2/4 m-auto">
       <div className="text-7xl text-white">
-        While you were <span className="text-red-400">waiting !</span> for your
+        While you were <span className="text-red-400">waiting !!</span> for your
         static site to build,
         <span className="text-blue-400">distributed web</span> infra­structure
         got really good.

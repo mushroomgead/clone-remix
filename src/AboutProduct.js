@@ -22,7 +22,7 @@ export default function AboutProduct() {
           pushed the boundaries of the web, your tools haven’t caught up to your
           appetite. <span className="font-bold">Remix is ready</span> to serve
           you from the initial request to the fanciest UX your designers can
-          think up. Check it out 👀 x
+          think up. Check it out 👀 x ++++
         </div>
       </div>
     </div>

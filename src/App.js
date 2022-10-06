@@ -10,6 +10,7 @@ function App() {
       <Header />
       <main>
         <HeroSection>yy</HeroSection>
+        <HeroSection>xx</HeroSection>
         <TestimonialSection></TestimonialSection>
         <AboutProduct></AboutProduct>
         <NestedRoutesExample></NestedRoutesExample>

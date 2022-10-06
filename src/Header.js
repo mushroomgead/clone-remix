@@ -7,7 +7,7 @@ export default function Header() {
           Blog
         </a>
         <a className="px-4" href="https://remix.run/docs/en/v1">
-          Docs
+          Docs222
         </a>
         <a className="px-4" href="https://github.com/remix-run">
           Github1111

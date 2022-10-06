@@ -1,19 +1,19 @@
-import Header from './Header';
-import HeroSection from './HeroSection';
-import TestimonialSection from './TestimonialSection';
-import AboutProduct from './AboutProduct';
-import NestedRoutesExample from './NestedRoutesExample';
+import Header from "./Header";
+import HeroSection from "./HeroSection";
+import TestimonialSection from "./TestimonialSection";
+import AboutProduct from "./AboutProduct";
+import NestedRoutesExample from "./NestedRoutesExample";
 
 function App() {
   return (
-    <div className='bg-black h-screen'>
+    <div className="bg-black h-screen">
       <Header />
       <main>
-        <HeroSection></HeroSection>
+        <HeroSection>yy</HeroSection>
         <TestimonialSection></TestimonialSection>
         <AboutProduct></AboutProduct>
         <NestedRoutesExample></NestedRoutesExample>
-        <div style={{ height: 1500, background: 'pink' }}></div>
+        <div style={{ height: 1500, background: "pink" }}></div>
       </main>
     </div>
   );

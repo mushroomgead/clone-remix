@@ -16,7 +16,7 @@ export default function MiniDashboard({ state }) {
         <span className={`${state === "module" && "text-yellow-400"}`}>
           invoicesee
         </span>
-        /<span className={`${state === "id" && "text-red-400"}`}>102000</span>
+        /<span className={`${state === "id" && "text-red-400"}`}>102000xx</span>
       </div>
       <div className={`${state === "domain" && "w-12 h-12 bg-blue-500"}`}></div>
       <div
